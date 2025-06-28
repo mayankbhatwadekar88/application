@@ -1,2 +1,3 @@
 This is fileC
 New changes in fileC
+Some changes
