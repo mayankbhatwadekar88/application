@@ -1,3 +1,4 @@
+Hello
 This is fileA
 This is change to the file
 Another change
